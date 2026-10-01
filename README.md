@@ -25,7 +25,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ## 🎯 Visão Geral
 Criação de um personagem inédito de RPG de ação/anime gerado inteiramente por IAs Generativas (texto e imagem).
 
-<img width="1248" height="832" alt="Retrato_de_personagem_de_RPG_estilo_anime_um_mago_chamado_Ka" src="https://github.com/user-attachments/assets/6c1e9710-be9e-4f57-b5f0-4e20e3d354e9" />
+![Kael Arkhaven](https://github.com/user-attachments/assets/123456)
 
 
 ## 🛠️ Tecnologias Utilizadas
