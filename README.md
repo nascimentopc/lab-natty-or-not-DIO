@@ -19,13 +19,14 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
+
 # 🔮 Kael Arkhaven — O Mago do Eclipse
 
-## 🎯 Visão Geral
+🎯 Visão Geral
 Criação de um personagem inédito de RPG de ação/anime gerado inteiramente por IAs Generativas (texto e imagem).
 
-![Kael Arkhaven](https://github.com/user-attachments/assets/123456)
+Kael Arkhaven
+<img width="1248" height="832" alt="image" src="https://github.com/user-attachments/assets/b2ee3a4a-ad32-4bb9-9c8e-2e3a9911890d" />
 
 
 ## 🛠️ Tecnologias Utilizadas
@@ -77,7 +78,7 @@ Frase de batalha:
 
 ## 💭 Reflexão (Natty or Not?)
 A arte gerada pelo Bing Image Creator ficou impressionante e coerente com a história. Embora tenha elementos claramente gerados por IA (estilo de pintura digital muito polido), o resultado final se passa tranquilamente por um concept art oficial de game.
-```
+
 
 ### Exemplos e Insigths
 
